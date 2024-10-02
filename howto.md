@@ -21,10 +21,10 @@ permalink: /howto/
     <table>
     <tr>
     <td>
-    　<img src="/assets/images/create.png" width="300">
+    　<img src="{{ site.baseurl }}/assets/images/create.png" width="300">
     </td>
     <td>
-    　<img src="/assets/images/seed.png" width="300">
+    　<img src="{{ site.baseurl }}/assets/images/seed.png" width="300">
     </td>
     </tr>
     </table>
@@ -35,13 +35,13 @@ permalink: /howto/
     <table>
     <tr>
     <td>
-    　<img src="/assets/images/home.png" width="200">
+    　<img src="{{ site.baseurl }}/assets/images/home.png" width="200">
     </td>
     <td>
-    　<img src="/assets/images/type-amount.png" width="200">
+    　<img src="{{ site.baseurl }}/assets/images/type-amount.png" width="200">
     </td>
     <td>
-    　<img src="/assets/images/invoice.png" width="200">
+    　<img src="{{ site.baseurl }}/assets/images/invoice.png" width="200">
     </td>
     </tr>
     </table>
@@ -49,7 +49,7 @@ permalink: /howto/
     <table>
     <tr>
     <td>
-    　<img src="/assets/images/invalid-amount.png" width="200">
+    　<img src="{{ site.baseurl }}/assets/images/invalid-amount.png" width="200">
     </td>
     </tr>
     </table>
