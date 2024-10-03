@@ -59,7 +59,7 @@ permalink: /howto/
 
 <a id="anchor3"></a>
 - Bolt Linkによる受取
-    - Bolt LinkのWebサイトの「ウォレットで開くをクリックし、Diamond Walletを起動すると、広告サイトが表示されます。
+    - 各Bolt LinkのWebサイト（デモサイトは[こちら][demo]）の「ウォレットで開くをクリックし、Diamond Walletを起動すると、広告サイトが表示されます。
     <table>
     <tr>
     <td>
@@ -99,3 +99,5 @@ permalink: /howto/
 <a id="anchor5"></a>
 - ウォレットの復元
     - 作成中
+
+[demo]: https://ads.diamondhands.technology/c/demo
