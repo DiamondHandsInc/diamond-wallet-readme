@@ -32,6 +32,7 @@ permalink: /howto/
 <a id="anchor2"></a>
 - 口座（チャネル）の開設
     - 「受信」 - 「テンキー」 と進み、口座開設のために必要な手数料（3000 sat）を入力します。
+    手数料については[こちら][feerate]を参照ください。
     <table>
     <tr>
     <td>
@@ -168,3 +169,4 @@ permalink: /howto/
     </table>
 
 [demo]: https://ads.diamondhands.technology/c/demo
+[feerate]: {{ site.baseurl}}/faq#fee
